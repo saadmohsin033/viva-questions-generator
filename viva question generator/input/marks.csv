@@ -1,0 +1,13 @@
+student_id,name,department,attendance_percent,assignment_score,quiz_score,project_score,final_exam_score,remarks
+S001,Aarav Sharma,CSE,92,86,78,90,84,Consistent performer
+S002,Diya Reddy,CSE,68,74,61,72,69,Needs attendance monitoring
+S003,Kabir Khan,ECE,81,65,70,75,73,Good practical work
+S004,Meera Nair,CSE,56,48,52,60,55,Critical attendance and performance risk
+S005,Rohan Das,IT,77,82,88,79,81,Strong quiz performance
+S006,Ananya Rao,ECE,73,91,84,88,86,Excellent submissions but low attendance
+S007,Vikram Singh,IT,64,58,62,54,60,Needs mentoring
+S008,Sara Thomas,CSE,95,89,92,94,91,Excellent overall
+S009,Ishaan Patel,ECE,70,72,69,71,68,Borderline attendance
+S010,Nisha Verma,IT,88,76,80,83,79,Reliable performer
+S011,Aditya Menon,CSE,61,67,55,63,58,Low quiz score and attendance
+S012,Priya Iyer,ECE,84,93,90,92,89,Excellent project work

@@ -1,0 +1,58 @@
+Agentic AI Systems - Mini Hackathon Syllabus
+
+Course Goal:
+Students will learn to build local-first Agentic AI automations using Python, Ollama, tools, workflows, and supervisor-worker patterns. The goal is to build useful systems, not chatbots.
+
+Week 1 Topics:
+1. Foundations of Agentic AI
+   - Difference between chatbots and agents
+   - Agent loop: plan, act, observe, finish
+   - Tool use and local automations
+
+2. Agent Lifecycle and Orchestration
+   - Task agents, reasoning agents, tool agents
+   - State, context, and memory
+   - Simple pipelines
+
+3. Resilience and Roles
+   - Error recovery
+   - Retry loops
+   - Role-based agents
+   - Critic and reviewer patterns
+
+4. Automation and Workflows
+   - File workflows
+   - CSV analysis workflows
+   - Report generation
+   - Branching and routing
+
+Week 2 Topics:
+5. Supervisor-Worker Systems
+   - Task delegation
+   - Result aggregation
+   - Multi-agent project structure
+
+6. Structured Reasoning
+   - Planning before action
+   - Self-checking
+   - Consistency checks
+
+Hackathon Requirement:
+Each team must build a local Agentic AI project that reads files, uses tools, performs actions, and creates useful output. The main project should not be a simple chatbot.
+
+Allowed Project Ideas:
+- Attendance risk detector
+- Resume ranking assistant
+- Assignment feedback generator
+- Research folder summarizer
+- CSV insight generator
+- File organizer
+- Meeting notes to action items
+- Study planner from syllabus
+
+Final Submission:
+1. Python project files
+2. input/ and output/ folders
+3. README explaining the problem solved
+4. Demo video or live demo
+5. Final generated report from the agent
